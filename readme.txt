@@ -2,5 +2,5 @@
 
 insert  something on Friday
 
-write something on dev branch，dev is on。
+write something on dev branch, dev is on。
 
