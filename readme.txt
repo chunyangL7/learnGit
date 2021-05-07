@@ -4,3 +4,8 @@ insert  something on Friday
 
 write something on dev branch, dev is on。
 
+#include <stdio.h>
+int main(){
+    printf("Hello world");
+    return 0;
+}
